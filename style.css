@@ -1,0 +1,26 @@
+body {
+    background-color:darksalmon ;
+}
+
+#score {
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+#timer {
+    font-size: 20px;
+    float:right;
+    margin-right: 300px
+}
+
+#sketch {
+    color: blue;
+    font-size: 20px;
+    font: bold;
+}
+
+#clearCanvas {
+    float:none;
+    margin-left: 0px;
+    margin-right: 0px;
+}
